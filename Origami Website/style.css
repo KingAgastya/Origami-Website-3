@@ -1,0 +1,36 @@
+h1{
+    color : #ff2600
+}
+
+.grid img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.header{
+    background-color: #ffe600;
+    display: flex;
+    justify-content: space-evenly ;
+}
+
+.menu{
+    display: flex;
+    border-radius: 20px;
+    padding:10px;
+    font-family: 'Times New Roman', Times, serif;
+    width :50px ;
+    justify-content: center;
+}
+
+p{
+    background-color: #fbff00;
+    color: #40e0d0;
+}
+
+a:link{
+    color: #0000ff;
+}
+
+a:visited{
+    color: darkblue;
+}
